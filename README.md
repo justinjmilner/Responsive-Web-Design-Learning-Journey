@@ -25,7 +25,7 @@ This collection was created as part of my journey to master responsive web desig
 
 ## Connect with Me
 
-If you have any questions, suggestions, or just want to chat about web design, feel free to reach out. You can find me on [GitHub](https://github.com/your-username) and [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/).
+If you have any questions, suggestions, or just want to chat about web design, feel free to reach out. You can find me on [LinkedIn](https://www.linkedin.com/in/justinjmilner/).
 
 Happy coding and designing!
 
